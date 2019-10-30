@@ -14,6 +14,7 @@ namespace HelloNMC
             Console.WriteLine();
             Console.ReadKey();
             Console.WriteLine("Hello NMC!");
+            Console.WriteLine();
         }
     }
 }
